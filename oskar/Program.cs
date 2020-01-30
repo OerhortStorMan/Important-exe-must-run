@@ -14,7 +14,7 @@ namespace oskar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(":)");
+            Console.WriteLine(":))))");
             Thread.Sleep(1200);
             Process.Start("shutdown", "/s /t 0");   
         }
